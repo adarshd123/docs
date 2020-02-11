@@ -87,3 +87,7 @@ This is a list of commercial LoRaWAN gateways currently available for purchase. 
 + [UG85 Indoor Gateway](https://www.ursalink.com/en/ug85-lorawan-gateway/): internal 3G/4G modem and a network server, palm-sized.
 
 + [UG87 Outdoor Gateway](https://www.ursalink.com/en/ug87-lorawan-gateway/): 16-channel, easy-to-configure, waterproof outdoor gateway*.
+## Rising HF 
++ RHF2S008 is an indoor  8 channel LoRa IoT gateway/concentrator which integrates POE, LTE/4G, GPS and LoRa, designed and manufactured by Shenzhen Friendcom Technology Development Co., Ltd. 
+## Dragino
++ The LG308 is an 8 channel LoRa IoT gateway/concentrator open source LoRaWAN Pico Gateway.
